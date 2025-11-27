@@ -59,9 +59,9 @@ plt.show()
 ```
  __Tabulation__:
 
-<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/f3272861-cc9f-4b4d-99f2-1bb5f861f50f" />
-<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/4a55b4dc-89c5-4d2f-b654-bd73b2469298" />
+<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/e5264a1f-3a92-47f0-9f27-d275c59edb88" />
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/c855f117-27ce-41e2-b76e-a555502afde0" />
 
 
 
@@ -71,5 +71,6 @@ plt.show()
 
    
    __Result__:
-   ![WhatsApp Image 2025-11-23 at 07 23 50_43c2b618](https://github.com/user-attachments/assets/5e647092-18bd-4b70-90d7-de829b08d73b)
+ ![2c008271-06b6-4e1e-be3b-1be65c7e98c6](https://github.com/user-attachments/assets/d3d24008-e35d-4d17-a004-6faff0c052e1)
+
 
